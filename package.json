@@ -1,0 +1,26 @@
+{
+  "name": "basicCronJobNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgaona/basicCronJobNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgaona/basicCronJobNode/issues"
+  },
+  "homepage": "https://github.com/bgaona/basicCronJobNode#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "node-cron": "^3.0.0",
+    "node-localstorage": "^2.2.1"
+  }
+}
